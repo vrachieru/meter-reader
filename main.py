@@ -99,7 +99,7 @@ def box_similarity(box_a, box_b, characteristic):
 if __name__ == '__main__':
     path = lambda filename: os.path.join(os.path.dirname(__file__), filename)
 
-    image_path = path('gas_meter.jpg')
+    image_path = path('images/meters/gas.jpg')
     image = cv2.imread(image_path)
     
     display = extract_display(image)
