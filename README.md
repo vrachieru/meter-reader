@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/5860071/50379858-a49dac80-065e-11e9-85b2-a6fc6e275acb.JPG" width="250px" border="0" />
+    <img src="https://user-images.githubusercontent.com/5860071/62865203-846a4d00-bd16-11e9-8261-9064c348c952.png" width="200px" border="0" />
     <br/>
     <a href="https://github.com/vrachieru/meter-reader/releases/latest">
         <img src="https://img.shields.io/badge/version-0.0.1-brightgreen.svg?style=flat-square" alt="Version">
